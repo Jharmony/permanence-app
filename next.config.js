@@ -7,6 +7,7 @@ const nextConfig = {
   images: {
     domains: ["arweave.net"],
   },
+  distDir: 'dist',
 }
 
 module.exports = nextConfig

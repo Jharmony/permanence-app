@@ -25,9 +25,11 @@ artifacts
 
 # next.js
 
+.next
 /packages/frontend/node_modules
 packages/frontend/.next/
 /out/
+/dist
 
 # vite
 
