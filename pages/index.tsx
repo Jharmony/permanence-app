@@ -1,7 +1,6 @@
 import Head from 'next/head';
 import Spline from '@splinetool/react-spline';
 
-
 export default function Home() {
   return (
     <div>
