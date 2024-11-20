@@ -2,10 +2,9 @@
 const nextConfig = {
   reactStrictMode: true,
   assetPrefix: './',
-  basePath: '',
-  trailingSlash: true,
+  output: 'export',
   images: {
-    domains: ["arweave.net"],
+    unoptimized: true,
   },
   distDir: 'dist',
 }
